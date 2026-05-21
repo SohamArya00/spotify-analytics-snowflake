@@ -1,7 +1,7 @@
 ## Snowflake Implementation Screenshots
 
 ### Database Architecture
-![Database Schemas](docs/screenshots/snowflake_database_schemas.png)
+![Database Schemas]([docs/screenshots/snowflake_database_schemas.png](https://github.com/SohamArya00/spotify-analytics-snowflake/blob/main/docs/docs/screenshots/curated_fact_table.png))
 
 ### Raw Data Tables
 ![Raw Tables](docs/screenshots/raw_tables_loaded.png)
