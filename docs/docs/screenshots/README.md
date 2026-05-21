@@ -1,7 +1,7 @@
 ## Snowflake Implementation Screenshots
 
 ### Database Architecture
-![Database Schemas](docs/docs/screenshots/curated_fact_table.png)
+docs/docs/screenshots/curated_fact_table.png
 
 ### Raw Data Tables
 ![Raw Tables](docs/screenshots/raw_tables_loaded.png)
