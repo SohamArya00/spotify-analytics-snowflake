@@ -1,0 +1,6 @@
+track_id,track_name,artist_id,duration_seconds,genre
+T001,Midnight Echo,A001,210,Pop
+T002,Electric Dreams,A002,180,Electronic
+T003,Lost in Tokyo,A003,240,Lo-fi
+T004,Neon Lights,A002,200,Electronic
+T005,Golden Hour,A004,260,Indie
